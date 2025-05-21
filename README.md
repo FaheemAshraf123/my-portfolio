@@ -5,9 +5,9 @@ my-portfolio is a portfolio template built with React. However, if you prefer a 
 ## Preview
 
 
-[![Imgur](https://imgur.com/FwDMNEM.gif)](https://FaheemAshraf123.github.io/my-portfolio)
+(https://FaheemAshraf123.github.io/my-portfolio)
 
-[Live Demo](https://github.com/FaheemAshraf123/my-portfolio)
+[Live Demo](https://FaheemAshraf123.github.io/my-portfolio)
 
 ## Instructions
 
