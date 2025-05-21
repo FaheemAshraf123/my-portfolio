@@ -1,0 +1,12 @@
+.contact {
+  flex-direction: column;
+}
+.inlineContact{
+  display: flex;
+  align-items: center;
+  gap: 10px
+}
+.marginStart{
+  display: flex;
+  align-items: center;
+}

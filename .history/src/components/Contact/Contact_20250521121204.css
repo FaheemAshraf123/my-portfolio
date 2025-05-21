@@ -1,0 +1,7 @@
+.contact {
+  flex-direction: column;
+}
+.inlineContact{
+  flex: auto;
+  align-items: center;
+}
